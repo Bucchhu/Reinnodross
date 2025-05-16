@@ -19,7 +19,6 @@ The project is divided into two main sections:
 *   [🔧 Usage](#-usage)
 *   [🔮 Future Enhancements](#-future-enhancements)
 *   [🤝 Contributing](#-contributing)
-*   [📝 License](#-license)
 *   [👥 Authors & Acknowledgements](#-authors--acknowledgements)
 
 ---
@@ -191,12 +190,7 @@ Don't forget to give the project a star! Thanks again!
 
 ---
 
-## 📝 License
 
-Distributed under the MIT License. See `LICENSE` file for more information.
-*(You'll need to add a `LICENSE` file to your repository - the MIT license is a good default for open source projects.)*
-
----
 
 ## 👥 Authors & Acknowledgements
 
