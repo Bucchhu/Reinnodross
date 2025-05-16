@@ -1,0 +1,12 @@
+https://i.postimg.cc/13SFq49t/Reinno-Dross-logo2.png
+
+
+{ isAuthenticated ? (
+          <li>
+          <Button onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}>Log Out</Button>
+          </li>
+        ) : (
+          <li>
+          <Button onClick={() => loginWithRedirect()}>Log In</Button>
+        </li>
+        )}
